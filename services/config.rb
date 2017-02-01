@@ -127,34 +127,45 @@ coreo_uni_util_variables "resource_19" do
 end
 coreo_uni_util_variables "resource_20" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_21" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_22" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_23" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_24" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_25" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_26" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_27" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_28" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_29" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
 coreo_uni_util_variables "resource_30" do
   action :nothing
+  variables([{'COMPOSITE::coreo_uni_util_variables.resource_18.var' => 'fubar'}])
 end
