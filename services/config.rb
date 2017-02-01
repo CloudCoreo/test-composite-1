@@ -12,31 +12,31 @@
 ##
 
 coreo_uni_util_variables "resource_1" do
-  action :set
+  action :nothing
   variables([
                 {'COMPOSITE::coreo_uni_util_variables.resource_1.var_1' => '1'}
             ])
 end
 coreo_uni_util_variables "resource_2" do
-  action :set
+  action :nothing
   variables([
                 {'COMPOSITE::coreo_uni_util_variables.resource_2.var_2' => '2'}
             ])
 end
 coreo_uni_util_variables "resource_3" do
-  action :set
+  action :nothing
   variables([
                 {'COMPOSITE::coreo_uni_util_variables.resource_3.var_3' => '3'}
             ])
 end
 coreo_uni_util_variables "resource_4" do
-  action :set
+  action :nothing
   variables([
                 {'COMPOSITE::coreo_uni_util_variables.resource_4.var_4' => '4'}
             ])
 end
 coreo_uni_util_variables "resource_5" do
-  action :set
+  action :nothing
   variables([
                 {'COMPOSITE::coreo_uni_util_variables.resource_5.var_5' => '5'}
             ])
