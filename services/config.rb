@@ -17,4 +17,58 @@ coreo_uni_util_variables "resource_1" do
                 {'COMPOSITE::coreo_uni_util_variables.resource_1.var_1' => '1'}
             ])
 end
+coreo_uni_util_variables "resource_2" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_2.var_2' => '2'}
+            ])
+end
+coreo_uni_util_variables "resource_3" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_3.var_3' => '3'}
+            ])
+end
+coreo_uni_util_variables "resource_4" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_4.var_4' => '4'}
+            ])
+end
+coreo_uni_util_variables "resource_5" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_5.var_5' => '5'}
+            ])
+end
+coreo_uni_util_variables "resource_6" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_6.var_6' => '6'}
+            ])
+end
+coreo_uni_util_variables "resource_7" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_7.var_7' => '7'}
+            ])
+end
+coreo_uni_util_variables "resource_8" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_8.var_8' => '8'}
+            ])
+end
+coreo_uni_util_variables "resource_9" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_9.var_9' => '9'}
+            ])
+end
+coreo_uni_util_variables "resource_10" do
+  action :set
+  variables([
+                {'COMPOSITE::coreo_uni_util_variables.resource_10.var_10' => '10'}
+            ])
+end
 
