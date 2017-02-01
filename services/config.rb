@@ -14,7 +14,7 @@
 coreo_uni_util_variables "resource_1" do
   action :set
   variables([
-                {'output_1' => '1'}
+                {'COMPOSITE::coreo_uni_util_variables.resource_1.var_1' => '1'}
             ])
 end
 
